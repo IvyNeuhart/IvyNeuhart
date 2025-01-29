@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvyNeuhart
 - 👀 I’m interested in ... Programming!
-- 🌱 I’m currently learning ... Python!
+- 🌱 I’m currently learning ... C#, Unix, and .Net!
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... ivyxtanner@gmail.com
 

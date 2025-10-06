@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IvyNeuhart
-- 👀 I’m interested in ... Programming!
-- 🌱 I’m currently learning ... C#, Unix, and .Net!
-- 💞️ I’m looking to collaborate on ... Anything!
-- 📫 How to reach me ... ivyxtanner@gmail.com
+Ivy Neuhart
+IT Helpdesk Manager for NCMC
+Pursuing Associates in Computer Information Systems
+C# and C++ are my favorite codes to learn
+Also familiar with Python and HTML
 
 <!---
 IvyNeuhart/IvyNeuhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
